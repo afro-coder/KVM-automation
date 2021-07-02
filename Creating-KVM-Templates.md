@@ -7,7 +7,7 @@
 
 ### Current Bottlenecks
 1. Block Device takes time, experiment with the following
-```````
+
 ```code
 COPYING THE BLOCK DEVICE
        Starting with an original guest, you probably wish to copy the guest block
@@ -50,4 +50,3 @@ COPYING THE BLOCK DEVICE
                                                  template       guest
 
 ```
-````````````````````````````````
