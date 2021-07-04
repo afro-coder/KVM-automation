@@ -8,6 +8,9 @@
 ### Current Bottlenecks
 1. Block Device takes time, experiment with the following
 
+<details>
+<summary>I could use some help...</summary>
+<p>
 ```code
 COPYING THE BLOCK DEVICE
        Starting with an original guest, you probably wish to copy the guest block
@@ -49,5 +52,7 @@ COPYING THE BLOCK DEVICE
         original guest ----> template ---------> copied ------> custom
                                                  template       guest
 
-```
+\```
+</p>
+</details>
 Steps
